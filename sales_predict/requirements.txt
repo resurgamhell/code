@@ -2,4 +2,7 @@ pandas
 numpy
 matplotlib
 sklearn
+ipython==5.3.0
 jupyter
+seaborn 
+simplegeneric
